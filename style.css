@@ -2,10 +2,33 @@ body{
     background-color: rgb(247, 230, 176);
    
 }
+img{
+
+    width: 250px;
+    height: auto;
+}
+.underlinetext{
+    width: 400px;
+    font-size: 10px;
+}
 h1{
-    color: rgb(54, 253, 97);
+    color: rgb(0, 0, 0);
     font-family: fantasy;
     font-weight: 100;
+    font-size: 50px;
     
    
+}
+.RecipeList{
+    font-size: 30px;
+}
+
+h4{
+    font-weight: bold;
+}
+ul{
+    font-size: 10px;
+}
+ol{
+    font-size: 10px;
 }
